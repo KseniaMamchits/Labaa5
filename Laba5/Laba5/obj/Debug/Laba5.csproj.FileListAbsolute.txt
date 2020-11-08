@@ -1,0 +1,6 @@
+C:\Users\Ksenia\source\repos\Laba5\Laba5\bin\Debug\Laba5.exe.config
+C:\Users\Ksenia\source\repos\Laba5\Laba5\bin\Debug\Laba5.exe
+C:\Users\Ksenia\source\repos\Laba5\Laba5\bin\Debug\Laba5.pdb
+C:\Users\Ksenia\source\repos\Laba5\Laba5\obj\Debug\Laba5.csprojAssemblyReference.cache
+C:\Users\Ksenia\source\repos\Laba5\Laba5\obj\Debug\Laba5.exe
+C:\Users\Ksenia\source\repos\Laba5\Laba5\obj\Debug\Laba5.pdb
